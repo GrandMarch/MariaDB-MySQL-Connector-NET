@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\MariaDB-MySQL-Connector-NET\bin\Debug\SharpConnect.MySql.dll
+C:\Users\Administrator\Desktop\MariaDB-MySQL-Connector-NET\bin\Debug\SharpConnect.MySql.pdb
+C:\Users\Administrator\Desktop\MariaDB-MySQL-Connector-NET\obj\Debug\SharpConnect.MySql.Net45.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MariaDB-MySQL-Connector-NET\obj\Debug\SharpConnect.MySql.dll
+C:\Users\Administrator\Desktop\MariaDB-MySQL-Connector-NET\obj\Debug\SharpConnect.MySql.pdb

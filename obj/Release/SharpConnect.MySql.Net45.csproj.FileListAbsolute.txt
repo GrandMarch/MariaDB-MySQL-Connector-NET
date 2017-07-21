@@ -1,0 +1,5 @@
+C:\Users\z\Source\Repos\SharpConnect.MySql\src\SharpConnect.MySql.Net45\bin\Release\SharpConnect.MySql.dll
+C:\Users\z\Source\Repos\SharpConnect.MySql\src\SharpConnect.MySql.Net45\bin\Release\SharpConnect.MySql.pdb
+C:\Users\z\Source\Repos\SharpConnect.MySql\src\SharpConnect.MySql.Net45\obj\Release\SharpConnect.MySql.Net45.csprojResolveAssemblyReference.cache
+C:\Users\z\Source\Repos\SharpConnect.MySql\src\SharpConnect.MySql.Net45\obj\Release\SharpConnect.MySql.dll
+C:\Users\z\Source\Repos\SharpConnect.MySql\src\SharpConnect.MySql.Net45\obj\Release\SharpConnect.MySql.pdb
